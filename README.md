@@ -1,5 +1,7 @@
 
 ## Clases en vídeo
+##Clases en vídeo
+[Instalacion ](https://www.youtube.com/watch?v=i6j8jT_OdEU&t=396s&ab_channel=CarlosMasterWeb)
 
 ### Curso de fundamentos desde cero
 
