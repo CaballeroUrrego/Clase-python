@@ -42,7 +42,7 @@ print(my_list + my_other_list)
 
 # Creación, inserción, actualización y eliminación
 
-my_other_list.append("MoureDev")
+my_other_list.append("Cardenas")
 print(my_other_list)
 
 my_other_list.insert(1, "Rojo")
