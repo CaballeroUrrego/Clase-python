@@ -1,8 +1,3 @@
-## ¡NUEVO! Curso de Python para web
-
-[![Curso Python Web](https://img.shields.io/github/stars/mouredev/python-web?label=Curso%20Python%20web&style=social)](https://github.com/mouredev/python-web)
-
-<a href="https://github.com/mouredev/python-web"><img src="https://raw.githubusercontent.com/mouredev/python-web/main/Images/header.jpg"/></a>
 
 ## Clases en vídeo
 
